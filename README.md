@@ -1,5 +1,14 @@
-## Hi there 👋
+A junior school student.
 
+```mermaid
+radar-beta
+  title My Skills
+  graticule polygon
+  showLegend false
+  ticks 5
+  axis Python, HTML, CSS, Javascript, UIDesign
+  curve data1 {4, 2, 2, 1, 3}
+```
 <!--
 **ChenWuwei404/ChenWuwei404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
